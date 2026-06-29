@@ -20,7 +20,7 @@ This guide covers:
 
 ## Live page
 
-After enabling GitHub Pages, this repository can be viewed as a webpage.
+https://hosseinkavan.github.io/telecom-ai-roadmap/
 
 ## Author
 
